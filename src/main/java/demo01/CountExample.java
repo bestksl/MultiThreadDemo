@@ -4,7 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.*;
 @Slf4j
-public class Test1 {
+public class CountExample {
 
 
     static int threadLocal = 200;
